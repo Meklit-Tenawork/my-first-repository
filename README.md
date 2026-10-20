@@ -2,4 +2,4 @@
 
 My name is Meklit.
 
-I am a student from Ethiopia interested in mathematics and computer science.
+I am a student from Ethiopia interested in Problem solving and Mathematics and Sudoku.
